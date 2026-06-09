@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <rect width="900" height="250" fill="#ffffff"/>
+  <text x="450" y="42" text-anchor="middle" font-size="20" font-weight="700" fill="#15151a">지속 가능한 토큰 경제 — 3대 축</text>
+  <rect x="40" y="80" width="260" height="120" rx="16" fill="#f5f3ff" stroke="#8247e5" stroke-width="2"/>
+  <text x="170" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#8247e5">보유형 멤버십</text>
+  <text x="170" y="148" text-anchor="middle" font-size="13" fill="#4b5563">코인 자동매매 이용권</text>
+  <text x="170" y="172" text-anchor="middle" font-size="12.5" fill="#6b7280">→ 장기 홀딩 수요</text>
+  <rect x="320" y="80" width="260" height="120" rx="16" fill="#fdecec" stroke="#e21f26" stroke-width="2"/>
+  <text x="450" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#e21f26">REDH 월결제 구독</text>
+  <text x="450" y="148" text-anchor="middle" font-size="13" fill="#4b5563">주식 서비스 이용권</text>
+  <text x="450" y="172" text-anchor="middle" font-size="12.5" fill="#6b7280">→ 반복 실사용 수요</text>
+  <rect x="600" y="80" width="260" height="120" rx="16" fill="#fafafb" stroke="#e5e7eb"/>
+  <text x="730" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#15151a">바이백 &amp; 소각</text>
+  <text x="730" y="148" text-anchor="middle" font-size="13" fill="#4b5563">분기별 영구 소각</text>
+  <text x="730" y="172" text-anchor="middle" font-size="12.5" fill="#6b7280">→ 가치 환원·희소성</text>
+  <text x="450" y="232" text-anchor="middle" font-size="13" fill="#6b7280">실질 서비스 수요 + 기업 수익이 토큰 생태계를 지탱</text>
+</svg>
