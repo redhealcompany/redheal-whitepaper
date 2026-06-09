@@ -1,5 +1,7 @@
 # 9. 로드맵 (Roadmap)
 
+<figure><img src=".gitbook/assets/roadmap.svg" alt=""><figcaption></figcaption></figure>
+
 ## Phase 1
 멤버십 아키텍처 설계 및 Web3 지갑 인증 모듈 개발 완료
 
