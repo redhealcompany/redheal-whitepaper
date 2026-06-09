@@ -29,10 +29,4 @@
 
 이 구조는 토큰의 보유 수요와 사용 수요를 동시에 만들어내는 하이브리드 유틸리티 구조입니다.
 
-```mermaid
-flowchart TB
-    R["REDH 토큰"] --> H["① 보유 (Hold)"]
-    R --> P["② 월결제 (Pay in REDH)"]
-    H --> C["코인 자동매매 · 카피트레이딩"]
-    P --> S["주식 서비스 구독 (SaaS)"]
-```
+<figure><img src=".gitbook/assets/two-track.svg" alt=""><figcaption></figcaption></figure>
