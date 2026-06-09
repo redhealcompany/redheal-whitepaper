@@ -1,5 +1,7 @@
 # 5. REDH 토큰 유틸리티 (Token Utility)
 
+<figure><img src=".gitbook/assets/utility.svg" alt=""><figcaption></figcaption></figure>
+
 **"REDH is Key."**
 
 REDH 토큰은 레드힐 생태계의 핵심 액세스 자산이며, 단순한 결제 토큰이 아닌 **실제 서비스 접근권과 반복 사용성을 동시에 가지는 멤버십 토큰**입니다.
