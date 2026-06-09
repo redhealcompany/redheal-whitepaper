@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <rect width="900" height="220" fill="#ffffff"/>
+  <text x="450" y="40" text-anchor="middle" font-size="20" font-weight="700" fill="#15151a">Phantom vs Reality — 핵심 경쟁력</text>
+  <g>
+    <rect x="28" y="74" width="164" height="120" rx="14" fill="#fafafb" stroke="#e5e7eb"/>
+    <text x="110" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#e21f26">Intrinsic Value</text>
+    <text x="110" y="140" text-anchor="middle" font-size="12" fill="#4b5563">검증된 4개</text><text x="110" y="158" text-anchor="middle" font-size="12" fill="#4b5563">상용 서비스</text>
+    <rect x="204" y="74" width="164" height="120" rx="14" fill="#fafafb" stroke="#e5e7eb"/>
+    <text x="286" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#e21f26">Dual Demand</text>
+    <text x="286" y="140" text-anchor="middle" font-size="12" fill="#4b5563">보유 수요 +</text><text x="286" y="158" text-anchor="middle" font-size="12" fill="#4b5563">결제 수요</text>
+    <rect x="380" y="74" width="164" height="120" rx="14" fill="#fafafb" stroke="#e5e7eb"/>
+    <text x="462" y="108" text-anchor="middle" font-size="13.5" font-weight="700" fill="#e21f26">Low Sell Pressure</text>
+    <text x="462" y="140" text-anchor="middle" font-size="12" fill="#4b5563">장기 보유</text><text x="462" y="158" text-anchor="middle" font-size="12" fill="#4b5563">유인 강화</text>
+    <rect x="556" y="74" width="164" height="120" rx="14" fill="#fafafb" stroke="#e5e7eb"/>
+    <text x="638" y="108" text-anchor="middle" font-size="13.5" font-weight="700" fill="#8247e5">Deflation</text>
+    <text x="638" y="140" text-anchor="middle" font-size="12" fill="#4b5563">반복 매출 +</text><text x="638" y="158" text-anchor="middle" font-size="12" fill="#4b5563">바이백 소각</text>
+    <rect x="732" y="74" width="164" height="120" rx="14" fill="#fafafb" stroke="#e5e7eb"/>
+    <text x="814" y="108" text-anchor="middle" font-size="14" font-weight="700" fill="#8247e5">Transparency</text>
+    <text x="814" y="140" text-anchor="middle" font-size="12" fill="#4b5563">On-chain</text><text x="814" y="158" text-anchor="middle" font-size="12" fill="#4b5563">인증·검증</text>
+  </g>
+</svg>
