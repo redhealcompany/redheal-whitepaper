@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <rect width="900" height="230" fill="#ffffff"/>
+  <text x="450" y="44" text-anchor="middle" font-size="20" font-weight="700" fill="#15151a">Democratization of Professional Trading</text>
+  <text x="450" y="70" text-anchor="middle" font-size="14" fill="#6b7280">전문 트레이딩 기술의 민주화</text>
+  <rect x="70" y="104" width="300" height="86" rx="14" fill="#fafafb" stroke="#e5e7eb"/>
+  <text x="220" y="138" text-anchor="middle" font-size="15" font-weight="700" fill="#6b7280">소수 전문가 · 기관</text>
+  <text x="220" y="164" text-anchor="middle" font-size="12.5" fill="#9ca3af">퀀트 알고리즘 · 자동매매 · 데이터 분석</text>
+  <rect x="530" y="104" width="300" height="86" rx="14" fill="#fff" stroke="#e21f26" stroke-width="2"/>
+  <text x="680" y="138" text-anchor="middle" font-size="15" font-weight="700" fill="#e21f26">일반 투자자 누구나</text>
+  <text x="680" y="164" text-anchor="middle" font-size="12.5" fill="#6b7280">Web3 인증으로 손쉽게 접근·활용</text>
+  <g stroke="#e21f26" stroke-width="2.5" fill="none">
+    <path d="M380 147 l140 0 m-14 -8 l14 8 -14 8"/>
+  </g>
+</svg>
