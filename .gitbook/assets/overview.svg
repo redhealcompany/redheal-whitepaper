@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <rect width="900" height="250" fill="#ffffff"/>
+  <text x="450" y="44" text-anchor="middle" font-size="20" font-weight="700" fill="#15151a">REDHeal Ecosystem at a Glance</text>
+  <rect x="40" y="92" width="180" height="92" rx="14" fill="#fafafb" stroke="#e5e7eb"/>
+  <text x="130" y="128" text-anchor="middle" font-size="15" font-weight="700" fill="#15151a">검증된 4대 서비스</text>
+  <text x="130" y="152" text-anchor="middle" font-size="12" fill="#6b7280">스캐너·자동매매·</text>
+  <text x="130" y="170" text-anchor="middle" font-size="12" fill="#6b7280">퀀트·리포트</text>
+  <rect x="262" y="92" width="180" height="92" rx="14" fill="#fff" stroke="#e21f26" stroke-width="2"/>
+  <text x="352" y="128" text-anchor="middle" font-size="15" font-weight="700" fill="#e21f26">REDH 멤버십</text>
+  <text x="352" y="152" text-anchor="middle" font-size="12" fill="#6b7280">보유=코인 /</text>
+  <text x="352" y="170" text-anchor="middle" font-size="12" fill="#6b7280">월결제=주식</text>
+  <rect x="484" y="92" width="180" height="92" rx="14" fill="#fafafb" stroke="#e5e7eb"/>
+  <text x="574" y="128" text-anchor="middle" font-size="15" font-weight="700" fill="#15151a">실매출 (Real-Yield)</text>
+  <text x="574" y="152" text-anchor="middle" font-size="12" fill="#6b7280">프로핏셰어·구독·</text>
+  <text x="574" y="170" text-anchor="middle" font-size="12" fill="#6b7280">레퍼럴 수익</text>
+  <rect x="706" y="92" width="154" height="92" rx="14" fill="#f5f3ff" stroke="#8247e5" stroke-width="2"/>
+  <text x="783" y="128" text-anchor="middle" font-size="15" font-weight="700" fill="#8247e5">바이백 &amp; 소각</text>
+  <text x="783" y="152" text-anchor="middle" font-size="12" fill="#6b7280">분기별 영구 소각</text>
+  <text x="783" y="170" text-anchor="middle" font-size="12" fill="#6b7280">디플레이션</text>
+  <g stroke="#c9ced8" stroke-width="2" fill="none">
+    <path d="M220 138 l34 0 m-8 -5 l8 5 -8 5"/><path d="M442 138 l34 0 m-8 -5 l8 5 -8 5"/><path d="M664 138 l34 0 m-8 -5 l8 5 -8 5"/>
+  </g>
+  <text x="450" y="222" text-anchor="middle" font-size="13" fill="#6b7280">검증된 서비스 수요와 기업 수익이 토큰 경제를 지지하는 실사용형 Web3 투자 생태계</text>
+</svg>
