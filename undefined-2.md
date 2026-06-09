@@ -2,6 +2,8 @@
 
 레드힐 생태계는 단순한 아이디어 단계가 아니라, 이미 수년간 시장에서 운영 및 검증되어 온 다음의 4가지 핵심 솔루션을 기반으로 구성됩니다.
 
+<figure><img src=".gitbook/assets/services.svg" alt=""><figcaption></figcaption></figure>
+
 ## ① AI 기반 급등주 탐지 시스템 (Smart Scanner)
 
 * 빅데이터 기반 수급 포착 및 패턴 매칭 알고리즘
