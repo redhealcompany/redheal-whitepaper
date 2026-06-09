@@ -1,5 +1,7 @@
 # 10. 결론 (Conclusion)
 
+<figure><img src=".gitbook/assets/conclusion.svg" alt=""><figcaption></figcaption></figure>
+
 REDH 프로젝트는 단순한 토큰 프로젝트가 아닙니다. 이는 **[검증된 핀테크 서비스 + Web3 지갑 인증 + 투트랙 멤버십 모델 + 실매출 기반 바이백 & 소각]**이 결합된 실사용형 Web3 투자 생태계입니다.
 
 레드힐은 다음의 구조를 통해 지속 가능한 토큰 경제를 구축합니다.
