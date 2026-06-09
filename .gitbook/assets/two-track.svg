@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 400" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <rect width="860" height="400" fill="#ffffff"/>
+  <text x="430" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#15151a">투트랙 멤버십 구조</text>
+  <text x="430" y="70" text-anchor="middle" font-size="14" fill="#6b7280">Hold for Crypto, Pay for Stocks</text>
+  <!-- REDH center -->
+  <rect x="360" y="96" width="140" height="48" rx="24" fill="#e21f26"/>
+  <text x="430" y="126" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">REDH 토큰</text>
+  <!-- connectors -->
+  <path d="M400 144 L250 196" stroke="#c9ced8" stroke-width="2" fill="none"/>
+  <path d="M460 144 L610 196" stroke="#c9ced8" stroke-width="2" fill="none"/>
+  <!-- left track -->
+  <rect x="70" y="196" width="320" height="66" rx="14" fill="#fff" stroke="#8247e5" stroke-width="2"/>
+  <text x="230" y="226" text-anchor="middle" font-size="16" font-weight="700" fill="#8247e5">① 보유 (Hold)</text>
+  <text x="230" y="249" text-anchor="middle" font-size="13" fill="#6b7280">지갑에 500만원 상당 보유</text>
+  <path d="M230 262 L230 300" stroke="#c9ced8" stroke-width="2"/>
+  <rect x="70" y="300" width="320" height="60" rx="14" fill="#f5f3ff" stroke="#e6e0f7"/>
+  <text x="230" y="336" text-anchor="middle" font-size="15" font-weight="600" fill="#15151a">코인 자동매매 · 카피트레이딩</text>
+  <!-- right track -->
+  <rect x="470" y="196" width="320" height="66" rx="14" fill="#fff" stroke="#e21f26" stroke-width="2"/>
+  <text x="630" y="226" text-anchor="middle" font-size="16" font-weight="700" fill="#e21f26">② 월결제 (Pay in REDH)</text>
+  <text x="630" y="249" text-anchor="middle" font-size="13" fill="#6b7280">매월 REDH로 구독 결제</text>
+  <path d="M630 262 L630 300" stroke="#c9ced8" stroke-width="2"/>
+  <rect x="470" y="300" width="320" height="60" rx="14" fill="#fdecec" stroke="#f7d4d4"/>
+  <text x="630" y="336" text-anchor="middle" font-size="15" font-weight="600" fill="#15151a">주식 서비스 구독 (SaaS)</text>
+</svg>
