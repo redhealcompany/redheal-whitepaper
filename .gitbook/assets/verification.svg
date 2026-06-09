@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <rect width="900" height="170" fill="#ffffff"/>
+  <text x="450" y="40" text-anchor="middle" font-size="18" font-weight="700" fill="#15151a">보유형 멤버십 온체인 인증 흐름</text>
+  <g>
+    <rect x="40" y="74" width="172" height="56" rx="12" fill="#fff" stroke="#e21f26" stroke-width="2"/>
+    <text x="126" y="100" text-anchor="middle" font-size="14" font-weight="700" fill="#15151a">Wallet Connect</text>
+    <text x="126" y="119" text-anchor="middle" font-size="11" fill="#6b7280">지갑 연결</text>
+    <rect x="252" y="74" width="172" height="56" rx="12" fill="#fff" stroke="#c9ced8" stroke-width="2"/>
+    <text x="338" y="100" text-anchor="middle" font-size="14" font-weight="700" fill="#15151a">Sign Message</text>
+    <text x="338" y="119" text-anchor="middle" font-size="11" fill="#6b7280">서명·소유권 검증</text>
+    <rect x="464" y="74" width="180" height="56" rx="12" fill="#fff" stroke="#c9ced8" stroke-width="2"/>
+    <text x="554" y="100" text-anchor="middle" font-size="14" font-weight="700" fill="#15151a">Snapshot &amp; Valuation</text>
+    <text x="554" y="119" text-anchor="middle" font-size="11" fill="#6b7280">보유량 조회·원화 환산</text>
+    <rect x="684" y="74" width="176" height="56" rx="12" fill="#fdecec" stroke="#e21f26" stroke-width="2"/>
+    <text x="772" y="100" text-anchor="middle" font-size="14" font-weight="700" fill="#e21f26">Access Grant / Revoke</text>
+    <text x="772" y="119" text-anchor="middle" font-size="11" fill="#6b7280">자동 활성화 / 회수</text>
+  </g>
+  <g fill="#c9ced8">
+    <path d="M212 102 l28 0 m-8 -5 l8 5 -8 5" stroke="#c9ced8" stroke-width="2" fill="none"/>
+    <path d="M424 102 l28 0 m-8 -5 l8 5 -8 5" stroke="#c9ced8" stroke-width="2" fill="none"/>
+    <path d="M644 102 l28 0 m-8 -5 l8 5 -8 5" stroke="#c9ced8" stroke-width="2" fill="none"/>
+  </g>
+</svg>
