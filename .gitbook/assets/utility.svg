@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <rect width="900" height="250" fill="#ffffff"/>
+  <text x="450" y="42" text-anchor="middle" font-size="20" font-weight="700" fill="#15151a">REDH is Key — 복합 유틸리티 토큰</text>
+  <rect x="70" y="84" width="360" height="130" rx="16" fill="#f5f3ff" stroke="#8247e5" stroke-width="2"/>
+  <text x="250" y="116" text-anchor="middle" font-size="16" font-weight="700" fill="#8247e5">보유형 유틸리티 (Holding)</text>
+  <text x="90" y="148" font-size="13" fill="#15151a"><tspan font-weight="700" fill="#16a34a">ACTIVE</tspan> · 기준 이상 보유 → 코인 서비스 활성화</text>
+  <text x="90" y="174" font-size="13" fill="#15151a"><tspan font-weight="700" fill="#dc2626">INACTIVE</tspan> · 매도·출금 시 권한 즉시 회수</text>
+  <text x="90" y="200" font-size="12.5" fill="#6b7280">→ 자발적 장기보유 = 락업 효과</text>
+  <rect x="470" y="84" width="360" height="130" rx="16" fill="#fdecec" stroke="#e21f26" stroke-width="2"/>
+  <text x="650" y="116" text-anchor="middle" font-size="16" font-weight="700" fill="#e21f26">결제형 유틸리티 (Payment)</text>
+  <text x="490" y="148" font-size="13" fill="#15151a">· 주식 서비스 월 구독 결제 수단</text>
+  <text x="490" y="174" font-size="13" fill="#15151a">· 생태계 내 순환 사용성 확보</text>
+  <text x="490" y="200" font-size="12.5" fill="#6b7280">→ 반복 결제 = 지속 수요 창출</text>
+</svg>
