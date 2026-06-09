@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <rect width="900" height="280" fill="#ffffff"/>
+  <text x="450" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#15151a">로드맵 (Roadmap)</text>
+  <line x1="90" y1="120" x2="810" y2="120" stroke="#e5e7eb" stroke-width="4"/>
+  <g font-size="13" fill="#4b5563">
+    <circle cx="90" cy="120" r="13" fill="#e21f26"/><text x="90" y="125" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">1</text>
+    <text x="90" y="166" text-anchor="middle" font-weight="700" fill="#15151a">Phase 1</text>
+    <text x="90" y="186" text-anchor="middle">멤버십·지갑</text><text x="90" y="202" text-anchor="middle">인증 모듈</text>
+    <circle cx="270" cy="120" r="13" fill="#e21f26"/><text x="270" y="125" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">2</text>
+    <text x="270" y="166" text-anchor="middle" font-weight="700" fill="#15151a">Phase 2</text>
+    <text x="270" y="186" text-anchor="middle">4종 서비스</text><text x="270" y="202" text-anchor="middle">멤버십 연동·런칭</text>
+    <circle cx="450" cy="120" r="13" fill="#e21f26"/><text x="450" y="125" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">3</text>
+    <text x="450" y="166" text-anchor="middle" font-weight="700" fill="#15151a">Phase 3</text>
+    <text x="450" y="186" text-anchor="middle">REDH 월결제</text><text x="450" y="202" text-anchor="middle">구독 SaaS 정착</text>
+    <circle cx="630" cy="120" r="13" fill="#e21f26"/><text x="630" y="125" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">4</text>
+    <text x="630" y="166" text-anchor="middle" font-weight="700" fill="#15151a">Phase 4</text>
+    <text x="630" y="186" text-anchor="middle">유저 확장·</text><text x="630" y="202" text-anchor="middle">1차 바이백&amp;소각</text>
+    <circle cx="810" cy="120" r="13" fill="#8247e5"/><text x="810" y="125" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">5</text>
+    <text x="810" y="166" text-anchor="middle" font-weight="700" fill="#15151a">Phase 5</text>
+    <text x="810" y="186" text-anchor="middle">CEX 상장·</text><text x="810" y="202" text-anchor="middle">해외 진출</text>
+  </g>
+</svg>
