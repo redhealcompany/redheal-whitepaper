@@ -1,5 +1,7 @@
 # 8. 경쟁력 및 지속가능성 (Core Competitiveness)
 
+<figure><img src=".gitbook/assets/competitiveness.svg" alt=""><figcaption></figcaption></figure>
+
 **"Phantom vs Reality"**
 
 다수의 Web3 프로젝트가 실체 없는 내러티브와 기대감에 의존하는 반면, 레드힐은 이미 상용화된 실전 서비스와 반복 매출 구조를 갖춘 프로젝트입니다.
