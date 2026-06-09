@@ -18,7 +18,4 @@
 
 이러한 구조를 통해 레드힐은 **지갑 보유 기반 권한 부여**와 **월 결제 기반 권한 부여**를 동시에 관리할 수 있는 하이브리드 인증 체계를 구현합니다.
 
-```mermaid
-flowchart LR
-    A["Wallet Connect"] --> B["Sign Message"] --> C["Snapshot & Valuation"] --> D["Access Grant / Revoke"]
-```
+<figure><img src=".gitbook/assets/verification.svg" alt=""><figcaption></figcaption></figure>
