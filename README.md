@@ -5,6 +5,8 @@ coverY: 0
 
 # 1. 개요 (Introduction)
 
+<figure><img src=".gitbook/assets/overview.svg" alt=""><figcaption></figcaption></figure>
+
 **"전통 금융(Web2)의 검증된 수익 모델을 Web3로 확장하다."**
 
 레드힐컴퍼니(RedHeal Company)는 2018년 설립 이래, 고도화된 주식 및 암호화폐 알고리즘 트레이딩 솔루션을 제공해 온 대한민국의 핀테크(FinTech) 기업입니다.
