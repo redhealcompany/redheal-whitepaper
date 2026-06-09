@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+  <rect width="900" height="170" fill="#ffffff"/>
+  <text x="450" y="40" text-anchor="middle" font-size="18" font-weight="700" fill="#15151a">Real-Revenue Buyback &amp; Burn 선순환</text>
+  <g>
+    <rect x="34" y="78" width="150" height="50" rx="25" fill="#fdecec" stroke="#e21f26" stroke-width="2"/>
+    <text x="109" y="108" text-anchor="middle" font-size="13" font-weight="600" fill="#15151a">기업 실매출 ↑</text>
+    <rect x="222" y="78" width="150" height="50" rx="25" fill="#fff" stroke="#c9ced8" stroke-width="2"/>
+    <text x="297" y="108" text-anchor="middle" font-size="13" font-weight="600" fill="#15151a">분기별 시장 매수</text>
+    <rect x="410" y="78" width="130" height="50" rx="25" fill="#e21f26"/>
+    <text x="475" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">영구 소각</text>
+    <rect x="578" y="78" width="130" height="50" rx="25" fill="#fff" stroke="#c9ced8" stroke-width="2"/>
+    <text x="643" y="108" text-anchor="middle" font-size="13" font-weight="600" fill="#15151a">유통량 ↓</text>
+    <rect x="746" y="78" width="130" height="50" rx="25" fill="#f5f3ff" stroke="#8247e5" stroke-width="2"/>
+    <text x="811" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#8247e5">희소성 ↑</text>
+  </g>
+  <g>
+    <path d="M184 103 l30 0 m-8 -5 l8 5 -8 5" stroke="#c9ced8" stroke-width="2" fill="none"/>
+    <path d="M372 103 l30 0 m-8 -5 l8 5 -8 5" stroke="#c9ced8" stroke-width="2" fill="none"/>
+    <path d="M540 103 l30 0 m-8 -5 l8 5 -8 5" stroke="#c9ced8" stroke-width="2" fill="none"/>
+    <path d="M708 103 l30 0 m-8 -5 l8 5 -8 5" stroke="#c9ced8" stroke-width="2" fill="none"/>
+  </g>
+</svg>
